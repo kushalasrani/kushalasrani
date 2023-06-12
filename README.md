@@ -7,7 +7,7 @@
   - [Analyze International Debt Statistics](https://github.com/kushalasrani/Analyze-International-Debt/tree/main)
   <h2> Certifications </h2>
   
-  - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/kushalasrani)
+  - [AWS Certified Cloud Practitioner](https://github.com/kushalasrani)
   
 
 <h2> 🤳 Connect with me:</h2>

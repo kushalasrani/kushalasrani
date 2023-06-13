@@ -10,6 +10,8 @@
   <h2> Certifications </h2>
   
   - [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/13zQ5lO2r9IaDfdIxWR8M3oZVVjNNxob1/view?usp=drive_link)
+  - [Google Data Analytics Professional]https://drive.google.com/file/d/1eCb5FYnC7Uh9QZ_G2FueKVwSrNdf_7Sw/view?usp=drive_link
+  
   
 
 <h2> 🤳 Connect with me:</h2>

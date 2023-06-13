@@ -9,7 +9,7 @@
 
   <h2> Certifications </h2>
   
-  - [AWS Certified Cloud Practitioner](https://www.mediafire.com/file/h7ktdol8hbb6ymf/AWS+Certified+Cloud+Practitioner+certificate.pdf/file)
+  - [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/13zQ5lO2r9IaDfdIxWR8M3oZVVjNNxob1/view?usp=drive_link)
   
 
 <h2> 🤳 Connect with me:</h2>

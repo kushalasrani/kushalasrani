@@ -5,11 +5,11 @@
 
   - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/kushalasrani/ExploreBitcoinCryptocurrency)
   - [Analyze International Debt Statistics](https://github.com/kushalasrani/Analyze-International-Debt/tree/main)
-  - [IPL Analysis 2008-2022](https://github.com/kushalasrani/Analyze-International-Debt/tree/main)
+  - [IPL Analysis 2008-2022](https://github.com/kushalasrani/IPLAnalysis)
 
   <h2> Certifications </h2>
   
-  - [AWS Certified Cloud Practitioner](https://github.com/kushalasrani)
+  - [AWS Certified Cloud Practitioner](https://www.mediafire.com/file/h7ktdol8hbb6ymf/AWS+Certified+Cloud+Practitioner+certificate.pdf/file)
   
 
 <h2> 🤳 Connect with me:</h2>

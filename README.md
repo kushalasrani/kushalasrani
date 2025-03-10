@@ -3,9 +3,10 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 
-  - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/kushalasrani/ExploreBitcoinCryptocurrency)
-  - [Analyze International Debt Statistics](https://github.com/kushalasrani/Analyze-International-Debt/tree/main)
-  - [IPL Analysis 2008-2022](https://github.com/kushalasrani/IPLAnalysis)
+  - [Exploring the Bitcoin Cryptocurrency Market - Python](https://github.com/kushalasrani/ExploreBitcoinCryptocurrency)
+  - [Analyze International Debt Statistics - SQL](https://github.com/kushalasrani/Analyze-International-Debt/tree/main)
+  - [IPL Analysis 2008-2022 - Power BI](https://github.com/kushalasrani/IPLAnalysis)
+  - [Walmart Sales Analysis - MySQL](https://github.com/kushalasrani/IPLAnalysis)
 
   <h2> Certifications </h2>
   
